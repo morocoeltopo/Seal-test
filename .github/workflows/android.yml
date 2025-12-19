@@ -30,4 +30,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: unsigned-apks
-          path: app/build/outputs/apk/**/genericRelease/*.apk
+          path: app/build/outputs/apk/*
